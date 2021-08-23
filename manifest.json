@@ -1,13 +1,13 @@
 {
   "name": "Wromoy",
   "short_name": "Wromoy",
-  "start_url": "https://wromo.com/wromoy-v1.2.0/",
+  "start_url": "https://wromo.com/",
   "display": "standalone",
   "background_color": "#111DD2",
   "theme_color": "#111DD2",
-  "categories": ["shop", "ecommerce", "apps"],
+  "categories": ["shop", "ecommerce", "apps", "wordpress theme", "woocommerce", "plugins", ],
   "orientation": "portrait",
-  "description": "Wromoy - Apps Multipurpose Ecommerce Mobile HTML",
+  "description": "Wromo Studio - Apps Theme Ecommerce Mobile HTML & Wordpress or Plugins",
   "icons": [{
       "src": "https://raw.githubusercontent.com/Wromo/wromoy-css/wromo/img/icons/icon-72x72.png",
       "type": "image/png",
