@@ -26,9 +26,9 @@ name: NodeJS with Webpack
 
 on:
   push:
-    branches: [ wromo ]
+    branches: [ wromo/wromoy-css/ ]
   pull_request:
-    branches: [ wromo ]
+    branches: [ wromo/wromoy-css/ ]
 
 jobs:
   build:
